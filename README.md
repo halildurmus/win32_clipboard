@@ -1,3 +1,9 @@
+# This package has moved
+
+The package can now be found at <https://github.com/halildurmus/win32/tree/main/packages/win32_clipboard>.
+
+---
+
 [![ci][ci_badge]][ci_link]
 [![Package: win32_clipboard][package_badge]][package_link]
 [![Publisher: halildurmus.dev][publisher_badge]][publisher_link]
@@ -6,10 +12,10 @@
 [![codecov][codecov_badge_link]][codecov_link]
 
 **A modern, type-safe Dart API for accessing and managing the
-Windows Registry.**
+Windows Clipboard.**
 
 This package builds on top of the [package:win32][win32_pub_dev_link] and
-provides a high-level abstraction over native registry APIs. It eliminates the
+provides a high-level abstraction over native clipboard APIs. It eliminates the
 need to work directly with FFI, raw pointers, or low-level Win32 calls while
 preserving performance and correctness.
 
